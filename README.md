@@ -19,7 +19,7 @@ Memory : Minimum 2 GB (RAM)
 
 Instructions:
 Step 1 : Install any Python IDE, we used SPYDER(IDE) of Anaconda3.<br>
-Step 2 : Download the influencers dataset from Kaggle Repository.
-Step 3 : Open the predict.py and influencers.py files from SPYDER IDE present in the code folder.
-Step 4 : Execute the predict.py file.
+Step 2 : Download the influencers dataset from Kaggle Repository.<br>
+Step 3 : Open the predict.py and influencers.py files from SPYDER IDE present in the code folder.<br>
+Step 4 : Execute the predict.py file.<br>
 Step 5 : A pop up GUI window is generated. Click on the function buttons aligned in the window and the most influencing person is predicted.
