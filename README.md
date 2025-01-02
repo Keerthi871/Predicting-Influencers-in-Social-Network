@@ -4,18 +4,18 @@ Machine Learning Model that predicts the most influencing person among other use
 README
 Inorder to execute the project “Predicting Influencers in Social Network”, follow the below instructions and requirements are
 
-Software Requirements: 
-Programming Language : Python 3.6 
-Graphical User Interface : Tkinter 
-Dataset : Kaggle Dataset 
-Packages : Numpy, Pandas, Matplotlib, Scikit-learn 
-Tool : Spyder (IDE)
+Software Requirements: <br>
+Programming Language : Python 3.6 <br>
+Graphical User Interface : Tkinter <br>
+Dataset : Kaggle Dataset <br>
+Packages : Numpy, Pandas, Matplotlib, Scikit-learn <br>
+Tool : Spyder (IDE)<br>
 
-Hardware Requirements:
-Operating System: Windows 10 
-Processor : Intel Core i3-2348M 
-CPU Speed : 2.30 GHz 
-Memory : Minimum 2 GB (RAM)  
+Hardware Requirements:<br>
+Operating System: Windows 10<br> 
+Processor : Intel Core i3-2348M <br>
+CPU Speed : 2.30 GHz <br>
+Memory : Minimum 2 GB (RAM) <br> 
 
 Instructions:
 Step 1 : Install any Python IDE, we used SPYDER(IDE) of Anaconda3.<br>
