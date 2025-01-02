@@ -18,7 +18,7 @@ CPU Speed : 2.30 GHz
 Memory : Minimum 2 GB (RAM)  
 
 Instructions:
-Step 1 : Install any Python IDE, we used SPYDER(IDE) of Anaconda3.
+Step 1 : Install any Python IDE, we used SPYDER(IDE) of Anaconda3.<br>
 Step 2 : Download the influencers dataset from Kaggle Repository.
 Step 3 : Open the predict.py and influencers.py files from SPYDER IDE present in the code folder.
 Step 4 : Execute the predict.py file.
